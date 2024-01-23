@@ -1,0 +1,23 @@
+{
+  "name": "mandalestart.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MandaleStart/mandalestart.com.git"
+  },
+  "author": "nicolas_jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MandaleStart/mandalestart.com/issues"
+  },
+  "homepage": "https://github.com/MandaleStart/mandalestart.com#readme",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "sass": "^1.59.2"
+  }
+}
