@@ -1,5 +1,6 @@
 // Importar las dependencias necesarias
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 // Importar componentes
 import Home from './components/Home/Home';
@@ -27,8 +28,9 @@ function App() {
         <Route path="/files" element={<AboutMe />} />
         <Route path="*" element={<ErrorPage />} />      
         </Routes>
+        
       <Footer></Footer>
-      
+      <SpeedInsights/>
       </BrowserRouter>
   );
 }
