@@ -16,10 +16,7 @@ function App() {
       <Navbar></Navbar>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/usados" element={<UsedCars />} />
-        <Route path="/cerokm" element={<NewCars />} />
-        <Route path="/usados/:id" element={<UsedCars />} />
-        <Route path="/cerokm/:id" element={<NewCars />} />
+
         <Route path="/contacto" element={<Contact />} />
         <Route path="/cotizacion" element={<Quotation />} />
         <Route path="*" element={<ErrorPage />} />
@@ -30,5 +27,9 @@ function App() {
     </BrowserRouter>
   );
 }
-
+/*        <Route path="/usados" element={<UsedCars />} />
+        <Route path="/cerokm" element={<NewCars />} />
+        <Route path="/usados/:id" element={<UsedCars />} />
+        <Route path="/cerokm/:id" element={<NewCars />} />
+         */
 export default App;
