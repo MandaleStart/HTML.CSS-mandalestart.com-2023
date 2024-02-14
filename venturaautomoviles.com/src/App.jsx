@@ -6,10 +6,9 @@ import { SpeedInsights } from "@vercel/speed-insights/react"
 import Home from './components/Home/Home';
 import Contact from './components/Contact/Contact';
 import ErrorPage from './components/Errors/ErrorPage';
-import SellCars from './components/SellCars/SellCars';
-import Navbar from './components/NavBar/NavBar'
-import Footer from './components/Footer/Footer'
-
+import Quotation from './components/Quotation/Quotation';
+import Footer from './components/Footer/Footer';
+import Navbar from './components/Navbar/Nav'
 // enrutador
 function App() {
   return (
@@ -22,7 +21,7 @@ function App() {
         <Route path="/usados/:id" element={<UsedCars />} />
         <Route path="/cerokm/:id" element={<NewCars />} />
         <Route path="/contacto" element={<Contact />} />
-        <Route path="/vender" element={<SellCars />} />
+        <Route path="/cotizacion" element={<Quotation />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
 

@@ -1,0 +1,18 @@
+.error-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .error-heading {
+    font-size: 36px;
+    color: #ff0000; /* Color rojo para resaltar el mensaje de error */
+  }
+  
+  .error-message {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .error-message a {
+    color: #007bff; /* Color azul para los enlaces */
+  }
