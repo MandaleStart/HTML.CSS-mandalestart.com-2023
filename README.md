@@ -1,52 +1,52 @@
-# README.md
 
----
 
-## Proyectos de Desarrollo Web
+# mandalestart.com - Página Web de Desarrollo Web
 
-Esta carpeta alberga mis proyectos de desarrollo web. A continuación, se presenta una breve descripción de cada uno:
+¡Bienvenido a mandalestart.com! Esta página web es tu destino para encontrar una amplia gama de servicios de desarrollo web, así como para conocer más sobre mí y explorar algunos de mis proyectos destacados.
 
-### 1. 2022.ecommerce-jap
+## Servicios Principales
 
-- Proyecto básico que incluye secciones como login, detalle de productos y página de usuario.
-- Tecnologías utilizadas: HTML, CSS, Bootstrap y JavaScript.
+### Diseño y Desarrollo de Sitios Web
 
-### 2. 2023.mandalestart.com
+En mandalestart.com, ofrecemos servicios completos de diseño y desarrollo de sitios web adaptados a tus necesidades específicas. Ya sea que necesites un sitio web informativo, una tienda en línea o una aplicación web personalizada, estamos aquí para hacer realidad tu visión.
 
-- Iniciado en el curso de desarrollo web de Coderhouse desde cero.
-- Lanzado en Vercel para mi página personal.
-- Tecnologías utilizadas: HTML, CSS, Bootstrap.
-- Visita [mandalestart.com](https://www.mandalestart.com) para acceder al proyecto.
+### Optimización para Motores de Búsqueda (SEO)
 
-### 3. 2024.mandalestart.com
+Nos aseguramos de que tu sitio web sea fácilmente accesible y visible en los motores de búsqueda. Utilizamos técnicas de optimización para motores de búsqueda (SEO) para mejorar el ranking de tu sitio web y aumentar su visibilidad en línea.
 
-- Reconstrucción y mejora del sitio utilizando React y Vite.
-- Accede al proyecto en desarrollo [dev.mandalestart.com](https://dev.mandalestart.com) (aún sin terminar).
+### Diseño Responsivo
 
----
+Todos nuestros sitios web están diseñados para ser totalmente responsivos, lo que garantiza una experiencia de usuario óptima en todos los dispositivos, desde ordenadores de escritorio hasta dispositivos móviles.
 
-## Web Development Projects
+## Secciones Adicionales
 
-This folder houses my web development projects. Below is a brief description of each:
+### Contacto
 
-### 1. 2022.ecommerce-jap
+¿Listo para iniciar un proyecto o tienes alguna pregunta? ¡No dudes en ponerte en contacto con nosotros! Puedes encontrarnos en las siguientes plataformas:
 
-- Basic project featuring sections like login, product details, and user page.
-- Technologies used: HTML, CSS, Bootstrap, and JavaScript.
+- Correo Electrónico: [contact@mandalestart.com](mailto:contact@mandalestart.com)
+- Redes Sociales: [Twitter](https://twitter.com/mandalestart), [LinkedIn](https://www.linkedin.com/in/mandalestart), [Instagram](https://www.instagram.com/_nico_jorge)
 
-### 2. 2023.mandalestart.com
+### Galería de Proyectos
 
-- Initiated during the Coderhouse web development course from scratch.
-- Launched on Vercel for my personal page.
-- Technologies used: HTML, CSS, Bootstrap.
-- Visit [mandalestart.com](https://www.mandalestart.com) to access the project.
+Echa un vistazo a nuestra galería de proyectos para ver algunos de nuestros trabajos anteriores. Aquí podrás encontrar una selección de sitios web que hemos desarrollado para nuestros clientes, junto con detalles sobre el alcance del proyecto y las tecnologías utilizadas.
 
-### 3. 2024.mandalestart.com
+### Acerca de Mí
 
-- Reconstruction and improvement of the site using React and Vite.
-- Access the ongoing project at [dev.mandalestart.com](https://dev.mandalestart.com) (still unfinished).
+Descubre más sobre el equipo detrás de mandalestart.com y nuestra pasión por el desarrollo web. En la sección "Acerca de Mí", compartimos nuestra historia, experiencia y valores fundamentales que guían nuestro trabajo.
 
----
+## Tecnologías Utilizadas
 
-¡Gracias por revisar mis proyectos! (Thanks for checking out my projects!)
+Nuestros proyectos de desarrollo web hacen uso de una variedad de tecnologías modernas, que incluyen:
 
+- HTML5
+- CSS3 (con preprocesadores como Sass)
+- JavaScript (incluyendo frameworks como React)
+- Herramientas de Construcción como Webpack o Vite
+- Gestión de Versiones con Git
+
+## ¿Listo para Empezar?
+
+Si estás listo para llevar tu presencia en línea al siguiente nivel o si tienes alguna pregunta sobre nuestros servicios, ¡no dudes en ponerte en contacto con nosotros! Estamos emocionados de trabajar contigo en tu próximo proyecto web.
+
+¡Gracias por visitar mandalestart.com!
